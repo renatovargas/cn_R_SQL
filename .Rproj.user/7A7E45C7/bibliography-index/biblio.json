@@ -27,6 +27,38 @@
             "title": "Literate programming",
             "type": "article-journal",
             "volume": "27"
+        },
+        {
+            "URL": "https://unstats.un.org/unsd/nationalaccount/docs/sna2008spanish.pdf",
+            "author": [
+                {
+                    "literal": "Comisión Europea"
+                },
+                {
+                    "literal": "Fondo Monetario Internacional"
+                },
+                {
+                    "literal": "Organización de Cooperación y Desarrollo Económico"
+                },
+                {
+                    "literal": "Naciones Unidas"
+                },
+                {
+                    "literal": "Banco Mundial"
+                }
+            ],
+            "id": "un_scn08",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "publisher": "Comisión Europea; Fondo Monetario Internacional; Organización de Cooperación y Desarrollo Económico; Naciones Unidas; Banco Mundial",
+            "publisher-place": "USA",
+            "title": "Sistema de cuentas nacionales 2008",
+            "type": "book"
         }
     ],
     "project_biblios": [

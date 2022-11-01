@@ -1,8 +1,6 @@
-# Preface {.unnumbered}
+# Introducción {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Una gran parte del análisis del desempeño económico de los países empieza con la información del Sistema de Cuentas Nacionales --SCN-- @un_scn08
 
 ```{r}
 1 + 1

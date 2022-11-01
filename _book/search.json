@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cuentas Nacionales con R y SQL",
+    "section": "",
+    "text": "Una gran parte del análisis del desempeño económico de los países empieza con la información del Sistema de Cuentas Nacionales –SCN– Comisión Europea et al. (2009)\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nComisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económico, Naciones Unidas, and Banco Mundial. 2009. Sistema de Cuentas Nacionales 2008. USA: Comisión Europea; Fondo Monetario Internacional; Organización de Cooperación y Desarrollo Económico; Naciones Unidas; Banco Mundial. https://unstats.un.org/unsd/nationalaccount/docs/sna2008spanish.pdf."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "CE. 2009. “Sistema de Cuentas Nacionales 2008.” https://unstats.un.org/unsd/nationalaccount/docs/sna2008spanish.pdf.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

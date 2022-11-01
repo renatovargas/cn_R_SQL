@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "cn_R_SQL"
-  author: "Jane Doe"
+  title: "Cuentas Nacionales con R y SQL"
+  author: "Renato Vargas"
   date: "10/2/2022"
   chapters:
     - index.qmd
@@ -19,5 +19,5 @@ format:
   pdf:
     documentclass: scrreprt
 
-editor: visual
+editor: source
 

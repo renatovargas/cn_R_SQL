@@ -1,7 +1,5 @@
 # Introducción {.unnumbered}
 
-Una gran parte del análisis del desempeño económico de los países empieza con la información del Sistema de Cuentas Nacionales --SCN-- @un_scn08
+Una gran parte del análisis del desempeño económico de los países empieza con la información del Sistema de Cuentas Nacionales --SCN-- @un_scn08. Generalmente, esta información se presenta en formato de hoja de cálculo de Microsoft Excel. Los cuadros más detallados cuentan con cientos de actividades económicas y productos. Aunque estos cuadros son ricos en información, por sus dimensiones, su comprensión, exploración y análisis puede tornarse complejo para el analista.
 
-```{r}
-1 + 1
-```
+En este libro busco reducir 
